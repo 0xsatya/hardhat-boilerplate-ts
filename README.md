@@ -5,8 +5,8 @@ The first things you need to do are cloning this repository and installing its
 dependencies:
 
 ```sh
-git clone https://github.com/defmethodinc/plinft-airdrop
-cd plinft-airdrop
+git clone https://github.com/0xsatya/hardhat-boilerplate-ts.git
+cd hardhat-boilerplate-ts
 yarn
 ```
 
